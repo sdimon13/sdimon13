@@ -13,7 +13,7 @@
 
 ### About Me 👦
 
-- 🌱 I’m currently learning: Go.
+- 🌱 I’m working as a Go, PhP developer.
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: sdimon13@gmail.com
 - 😄 Pronouns: he/him
