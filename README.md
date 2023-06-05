@@ -1,14 +1,17 @@
 <h1>Hi there, I'm <a href="https://sdimon13.com/" target="_blank">Dmitriy Sukhodolskiy</a> 
 <img src="https://github.com/sdimon13/sdimon13/raw/main/images/Hi.gif" height="32"/></h1>
-I'm a Backend Go / PHP developer from Russia. With over 10+ years of experience in the field, I'm always looking for cool projects and opportunities to collaborate on.
-
----
 
 [![Resume](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://sdimon13.github.io/resume/Dmitriy_Sukhodolskiy_Resume.pdf)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sdimon13/)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdimon13@gmail.com)
 [![telegram](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/D_Suhodolskiy)
 [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=Leetcode&)](https://leetcode.com/sdimon13/)
+
+I'm a Backend Go / PHP developer. With over 10+ years of experience in the field, I'm always looking for cool projects and opportunities to collaborate on.
+
+---
+
+
 
 ### A little more about me...
 
