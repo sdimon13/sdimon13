@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <a href="https://sdimon13.com/" target="_blank">Dmitriy Sukhodolskiy</a> 
+<h1>Hi there, I'm <a href="https://sdimon13.com/" target="_blank">Dmitriy Sukhodolskiy</a> 
 <img src="https://github.com/sdimon13/sdimon13/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend Go / Php developer, from Russia 🇷🇺</h3>
+I'm a Backend Go / PHP developer from Russia 🇷🇺. With over 8 years of experience in the field, I'm always looking for cool projects and opportunities to collaborate on.
 
 ---
 
@@ -10,27 +10,51 @@
 [![telegram](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=Telegram)](https://t.me/D_Suhodolskiy)
 [![leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=Leetcode&)](https://leetcode.com/sdimon13/)
 
+### A little more about me...
 
-### About Me 👦
+```go
+package main
 
-- 🌱 I’m working as a Go, PhP developer.
-- 👯 I’m looking to collaborate on: Anything cool!
-- 📫 How to reach me: sdimon13@gmail.com
-- 😄 Pronouns: he/him
+type Bio struct {
+	SoftwareDeveloper
+	name     string
+	title    string
+	location string
+}
 
----
+type Skills struct {
+	SoftwareDeveloper
+	languages  []string
+	databases  []string
+	frameworks []string
+}
 
-### GitHub Stats
+func main() {
+	bio := &Bio{
+		name:     "Dmitriy Sukhodolskiy",
+		title:    "Senior Backend Developer",
+		location: "Moscow, RU",
+	}
+
+	skills := &Skills{
+		languages:            append([]string{"Go", "PHP", "JavaScript", "CSS", "HTML"}, skills.Languages...),
+		databases:            append([]string{"MySQL", "PostgreSQL", "Redis", "Firebird"}, skills.Databases...),
+		tools_and_frameworks: append([]string{"Laravel", "Vue.js", "Docker", "RabbitMQ", "Kafka", "Zookeeper", "Elasticsearch", "gRPC", "Protobuf", "GraphQL", "Swagger", "Postman", "Kubernetes"}, skills.Tools_and_Frameworks...),
+	}
+}
+
+```
+
+<h2 style="color: #44AEFB">📊 My GitHub and LeetCode Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdimon13&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### LeetCode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sdimon13?theme=dark)
 
 ---
 
-### Technologies
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<br>
 
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
