@@ -16,14 +16,12 @@ I'm a Backend Go / PHP developer from Russia. With over 10+ years of experience 
 package main
 
 type Bio struct {
-	SoftwareDeveloper
 	name     string
 	title    string
 	location string
 }
 
 type Skills struct {
-	SoftwareDeveloper
 	languages  []string
 	databases  []string
 	frameworks []string
