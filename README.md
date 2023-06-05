@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <a href="https://sdimon13.com/" target="_blank">Dmitriy Sukhodolskiy</a> 
 <img src="https://github.com/sdimon13/sdimon13/raw/main/images/Hi.gif" height="32"/></h1>
-I'm a Backend Go / PHP developer from Russia 🇷🇺. With over 8 years of experience in the field, I'm always looking for cool projects and opportunities to collaborate on.
+I'm a Backend Go / PHP developer from Russia. With over 8 years of experience in the field, I'm always looking for cool projects and opportunities to collaborate on.
 
 ---
 
